@@ -10,3 +10,10 @@ Has some test cases written for functions located in NUnit.Tests1
 -  Save/Load spreadsheets
 -  Color cells of spreadsheet
 
+#### Change color of selected cell using ***cell*** drop down menu.
+
+#### Save and load spreadsheet from ***File*** drop down menu.
+
+#### Undo and redo from the ***Edit*** drop down menu.
+
+![Demo](/examples/demo_pic1.PNG)
